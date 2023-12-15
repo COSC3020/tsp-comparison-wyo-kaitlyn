@@ -40,3 +40,5 @@ so it won't get the optimal solution.  I noticed while running the tests that Lo
 can end up with different lengths for the same graph, so if you wanted to use this algorithm 
 more consistently you could potentially run it a certain number of times and take the best result 
 from those times.
+
+I added a text file with the data from the test I used for the graphs - named tsp data. 
