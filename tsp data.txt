@@ -1,0 +1,121 @@
+// this has the results from the test i
+// used for the graphs
+
+// input 0
+Test HK:  0
+Held-Karp: 3.056ms
+Test LS:  0
+Local Search: 1.316ms
+
+// input 1
+Test HK:  1
+Held-Karp: 0.506ms
+Test LS:  1
+Local Search: 0.655ms
+
+// input 2
+Test HK:  3
+Held-Karp: 0.714ms
+Test LS:  3
+Local Search: 0.588ms
+
+// input 3
+Test HK:  6
+Held-Karp: 0.903ms
+Test LS:  24
+Local Search: 0.584ms
+
+// input 4
+Test HK:  5
+Held-Karp: 0.843ms
+Test LS:  5
+Local Search: 0.557ms
+
+// input 5
+Test HK:  6
+Held-Karp: 1.65ms
+Test LS:  8
+Local Search: 0.467ms
+
+// input 6
+Test HK:  8
+Held-Karp: 4.703ms
+Test LS:  12
+Local Search: 0.555ms
+
+// input 7
+Test HK:  9
+Held-Karp: 7.031ms
+Test LS:  13
+Local Search: 0.505ms
+
+// input 8
+Test HK:  12
+Held-Karp: 15.547ms
+Test LS:  19
+Local Search: 0.748ms
+
+// input 9
+Test HK:  11
+Held-Karp: 38.883ms
+Test LS:  16
+Local Search: 0.845ms
+
+// input 10
+Test HK:  13
+Held-Karp: 88.63ms
+Test LS:  19
+Local Search: 0.639ms
+
+// input 11
+Test HK:  15
+Held-Karp: 188.515ms
+Test LS:  20
+Local Search: 0.809ms
+
+// input 12
+Test HK:  16
+Held-Karp: 465.446ms
+Test LS:  19
+Local Search: 0.589ms
+
+// input 13
+Test HK:  16
+Held-Karp: 1.090s
+Test LS:  25
+Local Search: 0.651ms
+
+// input 14
+Test HK:  16
+Held-Karp: 2.577s
+Test LS:  22
+Local Search: 0.889ms
+
+// input 15
+Test HK:  17
+Held-Karp: 6.158s
+Test LS:  22
+Local Search: 1.019ms
+
+// input 16
+Test HK:  18
+Held-Karp: 14.217s
+Test LS:  65
+Local Search: 0.923ms
+
+// input 17
+Test HK:  28
+Held-Karp: 39.010s
+Test LS:  65
+Local Search: 0.806ms
+
+// input 18
+Test HK:  28
+Held-Karp: 1:30.887 (m:ss.mmm)
+Test LS:  106
+Local Search: 1.123ms
+
+
+// input 19 - only local search because held-karp didn't finish
+Test LS:  100
+Local Search: 1.358ms
