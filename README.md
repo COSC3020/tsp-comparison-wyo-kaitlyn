@@ -30,7 +30,7 @@ To do these tests I combined my algorithms into one file, and then created a bun
 of graphs to do the empirical analysis.  
 
 I found the input size did not have that much effect on the runtime of Held-Karp until
-it hit an input size of 20, at which point the runtime became absurd (I started it last
+it hit an input size of 19, at which point the runtime became absurd (I started it last
 night and it was still going, so I just had to end it).  On the other hand, Local Search
 seemed to remain relatively consistent in runtime, at the expense of length accuracy.
 
